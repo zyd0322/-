@@ -3,5 +3,9 @@ hello from B xxxxxxx
 =======
 顶顶顶但是
 顶顶顶顶
+<<<<<<< HEAD
 hhhh
 >>>>>>> 8ac95a820884cbc731e2774398a3236fd12139e8
+=======
+hhhhddddd
+>>>>>>> b8c602cfe2031475ecaa4fe62530d168d4d313b2
