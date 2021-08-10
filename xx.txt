@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello from B xxxxxxx
+=======
+顶顶顶但是
+顶顶顶顶
+hhhh
+>>>>>>> 8ac95a820884cbc731e2774398a3236fd12139e8
